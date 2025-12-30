@@ -5,6 +5,10 @@ The project focuses on accessibility, internationalization, and scalable fronten
 
 ---
 
+![Intel Sustainability Timeline Webpage](img/intel-sustainability-home.png)
+
+---
+
 ## ✨ Overview
 
 The Intel Sustainability Timeline visualizes sustainability initiatives and long-term goals in a clear, engaging format designed for a global audience.
